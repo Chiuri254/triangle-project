@@ -31,7 +31,7 @@ The program is able to identify a scalene triangle.The scalene triangle has non 
 
 ## Link to project
 
-Here is a link to my project[project]https://chiuri254.github.io/triangle-project/
+Here is a link to my project https://chiuri254.github.io/triangle-project/
 
 ## license
 
