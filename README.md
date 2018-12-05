@@ -25,9 +25,9 @@ The program is able to identify a scalene triangle.The scalene triangle has non 
 
 ## Technology used
 
-1.Html
-2.Css
-3.Javascript
+1. Html
+2. Css
+3. Javascript
 
 ## Link to project
 
