@@ -8,7 +8,9 @@ Joseph Chiuri
 
 This project is used to identify the different types of triangles which includes Equilateral where all sides are equal,Isosceles where exactly 2 sides are equal,Scalene-where no sides are equal and the final scenario which is not a triangel-A triangel has three side of which two are equal.
 
-##Specification-BDD
+## Specification-BDD
+
+
 The program requires the user to input three values of which must be numeric values.
 
 The program accepts the values then the user should submit so as to tell the type of triagle.
