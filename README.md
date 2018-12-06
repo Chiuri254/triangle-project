@@ -24,7 +24,8 @@ The program is able to identify an equilateral triangle which has all its sides 
 
 The program is able to identify a scalene triangle.The scalene triangle has non of its sides equal to the other.In addition a sum of two of its sides should be greater than the other side.
 
-##Bugs
+## BUGS
+
 There are currently no bugs in this program.
 
 ## Technology used
