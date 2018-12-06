@@ -7,9 +7,10 @@ Joseph Chiuri
 ## Project Description
 
 This project is used to identify the different types of triangles which includes Equilateral where all sides are equal,Isosceles where exactly 2 sides are equal,Scalene-where no sides are equal and the final scenario which is not a triangel-A triangel has three side of which two are equal.
+##Set-up instructions
+User needs To fork this project since they can revive it and to fork open the repository and on the right side you will see a button written fork.Click on the fork button then choose the account you want to fork this project to.When the forking process is done you need to clone.Go to your terminal and use the git clone command to clone the project to your prefered destination in your computer.
 
 ## Specification-BDD
-
 
 The program requires the user to input three values of which must be numeric values.
 
@@ -23,6 +24,9 @@ The program is able to identify an equilateral triangle which has all its sides 
 
 The program is able to identify a scalene triangle.The scalene triangle has non of its sides equal to the other.In addition a sum of two of its sides should be greater than the other side.
 
+##Bugs
+There are currently no bugs in this program.
+
 ## Technology used
 
 1. Html
@@ -31,7 +35,7 @@ The program is able to identify a scalene triangle.The scalene triangle has non 
 
 ## Link to project
 
-Here is a link to my project https://chiuri254.github.io/triangle-project/
+Here is a link to my project https://github.com/Chiuri254/triangle-project.git
 
 ## license
 
