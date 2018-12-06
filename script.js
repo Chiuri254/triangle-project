@@ -9,7 +9,7 @@ function triangleTracker() {
     alert(' Isosceles-Exactly 2 sides are equal.');
   } else if (number1 !== number2 && number2 !== number3 && number3 !== number1) {
     alert('Scalene-No sides are equal.');
-  } else if (number1 + number2 <= number3 || number2 + number3 <= number1 || number3 + number1 <= number2) {
+  } else {
     alert('Not a triangel-A triangel has three side of which two are equal.');
   }
 
